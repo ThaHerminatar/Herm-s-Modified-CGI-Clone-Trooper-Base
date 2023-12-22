@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+
+	$basetexture 					"test/suit"
+
+	$halflambert					"1"
+	$nocull							"1"
+
+	$phong 							"1"
+	$phongexponenttexture 			"test/phongexp_reach"
+	$phongalbedotint 				"1"
+	$phongboost 					"2"
+	$phongtint 						"[.1 .1 .1]"
+	$phongfresnelranges 			"[0.8 0.8 0.8]"
+
+	$rimlight 						"1"
+	$rimlightexponent 				"50"
+	$rimlightboost 					"0.05"
+
+}
+
