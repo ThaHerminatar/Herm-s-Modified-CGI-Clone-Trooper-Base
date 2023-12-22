@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	$basetexture "herm_weapons/imp_cards/cl1"
+	$phongexponenttexture "white"
+	
+	$phong "1"
+	$phongexponent "32"
+	$phongboost "16"
+	$phongalbedotint "1"
+	$phongfresnelranges "[0.25 0.65 1.0]"
+}
