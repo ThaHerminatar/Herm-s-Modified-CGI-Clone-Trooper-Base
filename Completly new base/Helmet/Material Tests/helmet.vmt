@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "/Herm's Models/New Base Assets/Completly new base/Helmet/Material Tests/helmet_diffuse"
+	$bumpmap "/Herm's Models/New Base Assets/Completly new base/Helmet/Material Tests/helmet_normal"
+	$surfaceprop Plastic
+
+	$phong 1
+	$phongexponenttexture "/Herm's Models/New Base Assets/Completly new base/Helmet/Material Tests/helmet_glossiness"
+	$phongfresnelranges "[0.25 0.5 1]"
+	$phongboost 0
+}
