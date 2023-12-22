@@ -1,0 +1,7 @@
+Ground dirt with brown colour
+
+Dirt occlusion inverted with brown colour
+
+Soft damages with default colour
+
+Stain scratches with grey colour

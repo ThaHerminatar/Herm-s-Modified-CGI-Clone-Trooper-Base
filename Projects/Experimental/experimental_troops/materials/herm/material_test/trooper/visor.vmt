@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "herm/material_test/trooper/material_diffuse"
+	$bumpmap "herm/material_test/trooper/material_normal"
+	$surfaceprop Glass
+
+	$phong 1
+	$phongfresnelranges "[6.25 6.5 7]"
+	$phongexponent 150
+	$phongboost 5
+}

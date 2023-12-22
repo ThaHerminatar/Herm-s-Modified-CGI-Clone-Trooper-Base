@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Undersuit",                     "models\herm\experiment\undersuit.mdl" )  
+list.Set( "PlayerOptionsModel",  "Undersuit",                     "models\herm\experiment\undersuit.mdl" )

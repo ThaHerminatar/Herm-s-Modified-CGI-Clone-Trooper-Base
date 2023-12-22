@@ -1,0 +1,5 @@
+On the base colour, add in a dirt occlusion, and set the modifier on multiply, and in the settings inverse it.
+
+On a the default colour, add in Soft Damages modifier
+
+In a dark colour, add in the dust occlusion, and have it set at certain settings, and let it be.

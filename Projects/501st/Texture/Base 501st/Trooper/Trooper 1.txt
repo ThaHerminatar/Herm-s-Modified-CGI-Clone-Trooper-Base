@@ -1,0 +1,3 @@
+On the main paint, apply the dirt occlusion.
+
+Second layer will have the default colour for the fill layer,

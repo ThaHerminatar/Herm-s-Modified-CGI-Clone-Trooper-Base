@@ -1,0 +1,1 @@
+Please use the alpha I included in the TGA/VTF when you are putting your textures together and make sure to save the texture exported from your program as TFA -> VTF that way you get the alpha!

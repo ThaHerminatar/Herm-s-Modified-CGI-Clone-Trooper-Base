@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "herm/experiment/undersuit/suit_d"
+	$bumpmap "herm/experiment/undersuit/suit_n"
+	$surfaceprop Flesh
+
+	$phong 1
+	$phongexponenttexture "herm/experiment/undersuit/phong_exp_tex"
+	$phongfresnelranges "[0.25 0.5 1]"
+	$phongboost 0
+}

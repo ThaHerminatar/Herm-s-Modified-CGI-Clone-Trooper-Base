@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "herm/experiment/helmet/base_colour"
+	$bumpmap "herm/experiment/helmet/Normalmap"
+	$surfaceprop Glass
+
+	$phong 1
+	$phongfresnelranges "[6.25 6.5 7]"
+	$phongexponent 150
+	$phongboost 5
+}
